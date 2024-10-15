@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>"3D Genie: Bring Your Descriptions to Life"</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <video autoplay muted loop id="backgroundVideo">
+      <source src="background.mp4" type="video/mp4" />
+      Your browser does not support HTML5 video.
+    </video>
+
+    <div id="content">
+      <header>
+        <h1>"3D Genie: Bring Your Descriptions to Life"</h1>
+        <p>This is the place to change your texts into 3D models</p>
+      </header>
+
+      <main>
+        <form id="descriptionForm">
+          <label for="description">Enter a description:</label>
+          <textarea
+            id="description"
+            name="description"
+            rows="4"
+            cols="50"
+            placeholder="E.g. A pink car with four doors"
+          ></textarea>
+          <br />
+          <input type="submit" value="Submit" class="btn" />
+        </form>
+      </main>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
