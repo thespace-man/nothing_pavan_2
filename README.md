@@ -1,17 +1,7 @@
-# Vervathon-2023
 
-## Submission Instruction:
-  1. Fork this repository
-  2. Create a folder with your Team Name,Team leader name and your problem statement number
-  3. Upload all the code and necessary files in the created folder
-  4. Upload a **README.md** file in your folder with the below mentioned informations.
-  5. Generate a Pull Request with your Team Name. (Example: XYZ_Adhi_1)
-
-## README.md must consist of the following information:
-
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+ Team Name - Nothing
+ Problem Statement - 2
+ Team Leader Email - pavandatta689@gmail.com
 
 ## A Brief of the Prototype:
   This section must include prototype description
